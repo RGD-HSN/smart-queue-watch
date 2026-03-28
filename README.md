@@ -34,4 +34,10 @@ It uses an **ESP32 microcontroller** to communicate with a mobile app developed 
 1. Flash the ESP32 firmware.  
 2. Connect the watch to the iOS app via Wi-Fi or Bluetooth.  
 3. Open the app to monitor your queue in real time.  
-4. Receive notifications when it’s your turn.  
+4. Receive notifications when it’s your turn.
+
+
+![IMG_5946](https://github.com/user-attachments/assets/cb1dc00e-81bf-4eef-a960-c3b7b6af49e2)
+
+
+   
